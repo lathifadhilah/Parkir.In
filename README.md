@@ -1,3 +1,5 @@
+Parkir.In
+
 Deskripsi Produk
 
 Smart Parking merupakan sebuah sistem yang mengatur layanan parkir terutama dalam gedung bertingkat di perkotaan. Aplikasi dari Smart Parking ini memiliki nama yang akan dikenal publik sebagai aplikasi Parkir.In. Tujuan dari pembuatannya aplikasi layanan parkir ini adalah untuk dapat membuat pengendara merasa aman dan nyaman serta cepat dalam mencari lahan parkir di sebuah gedung bertingkat, selain itu juga untuk menekan angka parkir liar yang ada di Yogyakarta, sehingga tatanan jalan maupun gedung bertingkat dapat memiliki sistem parkir yang rapi, terstruktur, harga yang stabil dan tetap terjangkau untuk para pengendara. Hal ini juga mendukung SDGs ke 9 tentang industri, inovasi, dan infrastruktur yang diharapkan dapat memberikan dampak perubahan yang berkelanjutan dari segi industri dan infrastruktur melalui inovasi adanya sistem Smart Parking yang melayani pengguna dengan cepat karena ada sistem cctv yang memiliki sensor, dan pembayaran parkir dengan sistem digital yaitu selain menggunakan uang tunai, dapat menggunakan e-wallet.
